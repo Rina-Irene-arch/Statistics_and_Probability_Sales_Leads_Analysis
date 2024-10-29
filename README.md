@@ -50,11 +50,12 @@ data source: [DRA Final Assignment Data.csv](https://github.com/Rina-Irene-arch/
 - **1.14 Random variables & CLT: task 6**
    - The risk manager said: “if we have 0 sales we will lose $450,000 which is very risky for a new product!”. Comment on his statement
 ### Question 2 
-data source: [DRA Final Assignment Data RAND.csv]
+data source: [DRA Final Assignment Data RAND.csv](https://github.com/Rina-Irene-arch/Statistics_and_Probability_NAYA_Assignment_Sales_Leads_Analysis/blob/main/DRA%20Final%20Assignment%20Data%20RAND.csv)
 - 2.01 Simulation: task 1
 - 2.02 Simulation: task 2
 - 2.03 Simulation: task 3
 ### Question 3
+data source: DRA_Final_Assignment_Data_AB_testing.csv
 - 3.01 Time series & A/B Testing: task 1
 - 3.02 Time series & A/B Testing: task 2
 - 3.03 Time series & A/B Testing: task 3
