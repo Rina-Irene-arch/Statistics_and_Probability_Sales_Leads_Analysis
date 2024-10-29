@@ -91,9 +91,9 @@ details
     - Suggest a way of selecting which sales representative goes in which group. What biases is the company trying to prevent?
 - **3.06 Time series & A/B Testing: task 6**
     - <details>
-### Documentation
-[Report](https://github.com/Rina-Irene-arch/Statistics_and_Probability_NAYA_Assignment_Sales_Leads_Analysis/blob/main/Naya_DRA_Statistics_Final_Assignment_Rina_Rafalski_A_Fin.pdf): a detailed report covering data preprocessing, Exploratory data analysis and insights. Include visualizations and explanations.       
       Measure the differences in sales performance during the A/B test:<br>
       - By calculating means for both groups<br>
       - By plotting the sales rates over time<br>
       - By suggesting a suitable statistical test
+### Documentation
+[Report](https://github.com/Rina-Irene-arch/Statistics_and_Probability_NAYA_Assignment_Sales_Leads_Analysis/blob/main/Naya_DRA_Statistics_Final_Assignment_Rina_Rafalski_A_Fin.pdf): a detailed report covering data analysis and insights, visualizations and explanations.       
